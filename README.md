@@ -6,15 +6,15 @@ Mục đích chính của phần mềm quản lý nhà thuốc là giúp các nh
 
 Vui lòng làm theo Hướng dẫn sau để chạy dự án trong hệ thống của bạn và cài đặt các yêu cầu cần thiết
 
-#### Cài đặt NetBeans IDE 15 trở lên
+#### [Cài đặt NetBeans IDE 15 trở lên](https://netbeans.apache.org/front/main/index.html)
 
 ```https://netbeans.apache.org/front/main/index.html
   GET: NetBeans IDE
 ```
 
-#### Cài đặt XAMPP Control 
+#### [Cài đặt XAMPP Control](https://www.apachefriends.org/download.html) 
 
-```https://netbeans.apache.org/front/main/index.html
+```https://www.apachefriends.org/download.html
   Xammpp: 8.2.12 / PHP 8.2.12
 ```
 
